@@ -1,0 +1,10 @@
+/* 
+Medidas Absolutas: cm, mm, in(polegada), px, pt, pc
+
+Medidas Relativas: em, ex, rem, vw, vh, %
+*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
